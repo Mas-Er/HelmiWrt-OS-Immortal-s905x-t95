@@ -16,7 +16,7 @@ on:
 #    types: started
 
 env:
-  REPO_URL: https://github.com/helmiau/amlogic-openwrt.git
+  REPO_URL: https://github.com/ophub/amlogic-s9xxx-openwrt.git
   REPO_BRANCH: main
   PROC_LISTS: s905x-t95
   KERNEL_VR: 5.15.85_6.1.1
